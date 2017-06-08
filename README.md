@@ -1,2 +1,1 @@
-# ReactReduxApp
-A React Redux App
+Boilerplate React App
